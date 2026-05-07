@@ -8,7 +8,20 @@ Analyse des facteurs de risque du diabète — Python, Pandas, Plotly
 - **Origine** : Behavioral Risk Factor Surveillance System (BRFSS) — CDC américain
 - **Taille** : 253 680 observations, 22 variables
 - **Licence** : Publique
+## Installation & Usage
+1. Cloner le repo :
+```bash
+git clone https://github.com/Eloish/analyse-diabete-python
+```
+2. Télécharger le dataset sur Kaggle :
+[Diabetes Health Indicators Dataset](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
 
+3. Placer le dossier archive  dans le même dossier que le notebook
+
+4. Lancer Jupyter :
+```bash
+jupyter notebook
+```
 ## À propos
 Analyse exploratoire d'un dataset de 253 680 patients américains 
 pour identifier les facteurs de risque associés au diabète de type 2.
